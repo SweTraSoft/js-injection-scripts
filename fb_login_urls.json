@@ -1,0 +1,8 @@
+{
+"login-urls": [
+        "https://www.facebook.com/home.php",
+        "https://www.facebook.com/?checkpoint_src=any",
+        "https://www.facebook.com/",
+        "https://www.facebook.com/login"
+    ]
+}
